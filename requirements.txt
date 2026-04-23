@@ -1,0 +1,8 @@
+streamlit
+transformers
+sentencepiece
+numpy
+pandas
+networkx
+streamlit-agraph
+scikit-learn
